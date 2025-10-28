@@ -1,0 +1,32 @@
+{
+  "name": "assessment-cc-devops-terraform-sr-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "jest",
+    "build": "react-scripts build",
+    "start": "react-scripts start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://%7BGITHUB-TOKEN%7D@github.com/fullstacklabs/assessment-cc-devops-terraform-sr-01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fullstacklabs/assessment-cc-devops-terraform-sr-01/issues"
+  },
+  "homepage": "https://github.com/fullstacklabs/assessment-cc-devops-terraform-sr-01#readme",
+  "dependencies": {
+    "react": "^18.0.0"
+  },
+  "devDependencies": {
+    "jest": "^30.2.0",
+    "eslint": "^9.13.0",
+    "react-scripts": "^5.0.1"
+  }
+}
+
